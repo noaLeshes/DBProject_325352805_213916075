@@ -1,0 +1,420 @@
+Treadmill,1,Mind Your Hands and Feet Don't Overextend,35,30
+Spinning Bike,2,Secure Your Grip Use Full Range of Motion,6,35
+Cable Machine,3,Adjust Seat and Settings Stay Balanced,36,41
+Dumbbells,4,Stay Balanced No Jumping or Leaning,35,30
+Weight Plates,5,Mind Your Hands and Feet Use Full Range of Motion,30,17
+Stepmills,6,Secure Your Grip Don't Overextend,35,30
+Treadmill,7,Adjust Seat and Settings Maintain Posture,4,35
+Spinning Bike,8,Mind Your Hands and Feet Use Full Range of Motion,46,23
+Cable Machine,9,Secure Your Grip No Jumping or Leaning,9,9
+Dumbbells,10,Stay Balanced Maintain Posture,28,2
+Weight Plates,11,Adjust Seat and Settings Don't Overextend,10,28
+Stepmills,12,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,13,Secure Your Grip Maintain Posture,12,17
+Spinning Bike,14,Adjust Seat and Settings Don't Overextend,35,30
+Cable Machine,15,Stay Balanced No Jumping or Leaning,37,45
+Dumbbells,16,Mind Your Hands and Feet Use Full Range of Motion,45,22
+Weight Plates,17,Secure Your Grip Maintain Posture,18,44
+Stepmills,18,Adjust Seat and Settings Don't Overextend,44,4
+Treadmill,19,Stay Balanced No Jumping or Leaning,44,4
+Spinning Bike,20,Mind Your Hands and Feet Use Full Range of Motion,38,2
+Cable Machine,21,Secure Your Grip Maintain Posture,51,44
+Dumbbells,22,Adjust Seat and Settings Don't Overextend,1,35
+Weight Plates,23,Stay Balanced No Jumping or Leaning,49,48
+Stepmills,24,Mind Your Hands and Feet Use Full Range of Motion,27,25
+Treadmill,25,Secure Your Grip Don't Overextend,6,35
+Spinning Bike,26,Adjust Seat and Settings Stay Balanced,18,44
+Cable Machine,27,Mind Your Hands and Feet Use Full Range of Motion,2,6
+Dumbbells,28,Secure Your Grip No Jumping or Leaning,18,44
+Weight Plates,29,Stay Balanced Maintain Posture,46,23
+Stepmills,30,Adjust Seat and Settings Don't Overextend,17,18
+Treadmill,31,Mind Your Hands and Feet Use Full Range of Motion,8,46
+Spinning Bike,32,Secure Your Grip Maintain Posture,46,23
+Cable Machine,33,Adjust Seat and Settings Don't Overextend,9,9
+Dumbbells,34,Stay Balanced No Jumping or Leaning,28,2
+Weight Plates,35,Mind Your Hands and Feet Use Full Range of Motion,10,28
+Stepmills,36,Secure Your Grip Maintain Posture,17,18
+Treadmill,37,Adjust Seat and Settings Don't Overextend,12,17
+Spinning Bike,38,Stay Balanced No Jumping or Leaning,35,30
+Cable Machine,39,Mind Your Hands and Feet Use Full Range of Motion,37,45
+Dumbbells,40,Secure Your Grip Maintain Posture,45,22
+Weight Plates,41,Adjust Seat and Settings Don't Overextend,18,44
+Stepmills,42,Stay Balanced No Jumping or Leaning,44,4
+Treadmill,43,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Spinning Bike,44,Secure Your Grip Maintain Posture,38,2
+Cable Machine,45,Adjust Seat and Settings Don't Overextend,44,4
+Dumbbells,46,Stay Balanced No Jumping or Leaning,1,35
+Weight Plates,47,Mind Your Hands and Feet Use Full Range of Motion,49,48
+Stepmills,48,Secure Your Grip Maintain Posture,27,25
+Treadmill,49,Adjust Seat and Settings Don't Overextend,6,35
+Spinning Bike,50,Mind Your Hands and Feet Use Full Range of Motion,18,44
+Cable Machine,51,Secure Your Grip No Jumping or Leaning,2,6
+Dumbbells,52,Stay Balanced Maintain Posture,18,44
+Weight Plates,53,Adjust Seat and Settings Don't Overextend,46,23
+Stepmills,54,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,55,Secure Your Grip Maintain Posture,8,46
+Spinning Bike,56,Adjust Seat and Settings Don't Overextend,46,23
+Cable Machine,57,Stay Balanced No Jumping or Leaning,9,9
+Dumbbells,58,Mind Your Hands and Feet Use Full Range of Motion,28,2
+Weight Plates,59,Secure Your Grip Maintain Posture,10,28
+Stepmills,60,Adjust Seat and Settings Don't Overextend,17,18
+Treadmill,61,Stay Balanced No Jumping or Leaning,12,17
+Spinning Bike,62,Mind Your Hands and Feet Use Full Range of Motion,35,30
+Cable Machine,63,Secure Your Grip Maintain Posture,37,45
+Dumbbells,64,Adjust Seat and Settings Don't Overextend,45,22
+Weight Plates,65,Stay Balanced No Jumping or Leaning,18,44
+Stepmills,66,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Treadmill,67,Secure Your Grip Maintain Posture,44,4
+Spinning Bike,68,Adjust Seat and Settings Don't Overextend,38,2
+Cable Machine,69,Stay Balanced No Jumping or Leaning,44,4
+Dumbbells,70,Mind Your Hands and Feet Use Full Range of Motion,1,35
+Weight Plates,71,Secure Your Grip Maintain Posture,49,48
+Stepmills,72,Adjust Seat and Settings Don't Overextend,27,25
+Treadmill,73,Stay Balanced No Jumping or Leaning,6,35
+Spinning Bike,74,Mind Your Hands and Feet Use Full Range of Motion,18,44
+Cable Machine,75,Secure Your Grip No Jumping or Leaning,2,6
+Dumbbells,76,Stay Balanced Maintain Posture,18,44
+Weight Plates,77,Adjust Seat and Settings Don't Overextend,46,23
+Stepmills,78,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,79,Secure Your Grip Maintain Posture,8,46
+Spinning Bike,80,Adjust Seat and Settings Don't Overextend,46,23
+Cable Machine,81,Stay Balanced No Jumping or Leaning,9,9
+Dumbbells,82,Mind Your Hands and Feet Use Full Range of Motion,28,2
+Weight Plates,83,Secure Your Grip Maintain Posture,10,28
+Stepmills,84,Adjust Seat and Settings Don't Overextend,17,18
+Treadmill,85,Stay Balanced No Jumping or Leaning,12,17
+Spinning Bike,86,Mind Your Hands and Feet Use Full Range of Motion,35,30
+Cable Machine,87,Secure Your Grip Maintain Posture,37,45
+Dumbbells,88,Adjust Seat and Settings Don't Overextend,45,22
+Weight Plates,89,Stay Balanced No Jumping or Leaning,18,44
+Stepmills,90,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Treadmill,91,Secure Your Grip Maintain Posture,44,4
+Spinning Bike,92,Adjust Seat and Settings Don't Overextend,38,2
+Cable Machine,93,Stay Balanced No Jumping or Leaning,44,4
+Dumbbells,94,Mind Your Hands and Feet Use Full Range of Motion,1,35
+Weight Plates,95,Secure Your Grip Maintain Posture,49,48
+Stepmills,96,Adjust Seat and Settings Don't Overextend,27,25
+Treadmill,97,Stay Balanced No Jumping or Leaning,6,35
+Spinning Bike,98,Mind Your Hands and Feet Use Full Range of Motion,18,44
+Cable Machine,99,Secure Your Grip No Jumping or Leaning,2,6
+Dumbbells,100,Stay Balanced Maintain Posture,18,44
+Weight Plates,101,Adjust Seat and Settings Don't Overextend,46,23
+Stepmills,102,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,103,Secure Your Grip Maintain Posture,8,46
+Spinning Bike,104,Adjust Seat and Settings Don't Overextend,46,23
+Cable Machine,105,Stay Balanced No Jumping or Leaning,9,9
+Dumbbells,106,Mind Your Hands and Feet Use Full Range of Motion,28,2
+Weight Plates,107,Secure Your Grip Maintain Posture,10,28
+Stepmills,108,Adjust Seat and Settings Don't Overextend,17,18
+Treadmill,109,Stay Balanced No Jumping or Leaning,12,17
+Spinning Bike,110,Mind Your Hands and Feet Use Full Range of Motion,35,30
+Cable Machine,111,Secure Your Grip Maintain Posture,37,45
+Dumbbells,112,Adjust Seat and Settings Don't Overextend,45,22
+Weight Plates,113,Stay Balanced No Jumping or Leaning,18,44
+Stepmills,114,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Treadmill,115,Secure Your Grip Maintain Posture,44,4
+Spinning Bike,116,Adjust Seat and Settings Don't Overextend,38,2
+Cable Machine,117,Stay Balanced No Jumping or Leaning,44,4
+Dumbbells,118,Mind Your Hands and Feet Use Full Range of Motion,1,35
+Weight Plates,119,Secure Your Grip Maintain Posture,49,48
+Stepmills,120,Adjust Seat and Settings Don't Overextend,27,25
+Treadmill,121,Stay Balanced No Jumping or Leaning,6,35
+Spinning Bike,122,Mind Your Hands and Feet Use Full Range of Motion,18,44
+Cable Machine,123,Secure Your Grip No Jumping or Leaning,2,6
+Dumbbells,124,Stay Balanced Maintain Posture,18,44
+Weight Plates,125,Adjust Seat and Settings Don't Overextend,46,23
+Stepmills,126,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,127,Secure Your Grip Maintain Posture,8,46
+Spinning Bike,128,Adjust Seat and Settings Don't Overextend,46,23
+Cable Machine,129,Stay Balanced No Jumping or Leaning,9,9
+Dumbbells,130,Mind Your Hands and Feet Use Full Range of Motion,28,2
+Weight Plates,131,Secure Your Grip Maintain Posture,10,28
+Stepmills,132,Adjust Seat and Settings Don't Overextend,17,18
+Treadmill,133,Stay Balanced No Jumping or Leaning,12,17
+Spinning Bike,134,Mind Your Hands and Feet Use Full Range of Motion,35,30
+Cable Machine,135,Secure Your Grip Maintain Posture,37,45
+Dumbbells,136,Adjust Seat and Settings Don't Overextend,45,22
+Weight Plates,137,Stay Balanced No Jumping or Leaning,18,44
+Stepmills,138,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Treadmill,139,Secure Your Grip Maintain Posture,44,4
+Spinning Bike,140,Adjust Seat and Settings Don't Overextend,38,2
+Cable Machine,141,Stay Balanced No Jumping or Leaning,44,4
+Dumbbells,142,Mind Your Hands and Feet Use Full Range of Motion,1,35
+Weight Plates,143,Secure Your Grip Maintain Posture,49,48
+Stepmills,144,Adjust Seat and Settings Don't Overextend,27,25
+Treadmill,145,Stay Balanced No Jumping or Leaning,6,35
+Spinning Bike,146,Mind Your Hands and Feet Use Full Range of Motion,18,44
+Cable Machine,147,Secure Your Grip No Jumping or Leaning,2,6
+Dumbbells,148,Stay Balanced Maintain Posture,18,44
+Weight Plates,149,Adjust Seat and Settings Don't Overextend,46,23
+Stepmills,150,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,151,Secure Your Grip Maintain Posture,8,46
+Spinning Bike,152,Adjust Seat and Settings Don't Overextend,46,23
+Cable Machine,153,Stay Balanced No Jumping or Leaning,9,9
+Dumbbells,154,Mind Your Hands and Feet Use Full Range of Motion,28,2
+Weight Plates,155,Secure Your Grip Maintain Posture,10,28
+Stepmills,156,Adjust Seat and Settings Don't Overextend,17,18
+Treadmill,157,Stay Balanced No Jumping or Leaning,12,17
+Spinning Bike,158,Mind Your Hands and Feet Use Full Range of Motion,35,30
+Cable Machine,159,Secure Your Grip Maintain Posture,37,45
+Dumbbells,160,Adjust Seat and Settings Don't Overextend,45,22
+Weight Plates,161,Stay Balanced No Jumping or Leaning,18,44
+Stepmills,162,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Treadmill,163,Secure Your Grip Maintain Posture,44,4
+Spinning Bike,164,Adjust Seat and Settings Don't Overextend,38,2
+Cable Machine,165,Stay Balanced No Jumping or Leaning,44,4
+Dumbbells,166,Mind Your Hands and Feet Use Full Range of Motion,1,35
+Weight Plates,167,Secure Your Grip Maintain Posture,49,48
+Stepmills,168,Adjust Seat and Settings Don't Overextend,27,25
+Treadmill,169,Stay Balanced No Jumping or Leaning,6,35
+Spinning Bike,170,Mind Your Hands and Feet Use Full Range of Motion,18,44
+Cable Machine,171,Secure Your Grip No Jumping or Leaning,2,6
+Dumbbells,172,Stay Balanced Maintain Posture,18,44
+Weight Plates,173,Adjust Seat and Settings Don't Overextend,46,23
+Stepmills,174,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,175,Secure Your Grip Maintain Posture,8,46
+Spinning Bike,176,Adjust Seat and Settings Don't Overextend,46,23
+Cable Machine,177,Stay Balanced No Jumping or Leaning,9,9
+Dumbbells,178,Mind Your Hands and Feet Use Full Range of Motion,28,2
+Weight Plates,179,Secure Your Grip Maintain Posture,10,28
+Stepmills,180,Adjust Seat and Settings Don't Overextend,17,18
+Treadmill,181,Stay Balanced No Jumping or Leaning,12,17
+Spinning Bike,182,Mind Your Hands and Feet Use Full Range of Motion,35,30
+Cable Machine,183,Secure Your Grip Maintain Posture,37,45
+Dumbbells,184,Adjust Seat and Settings Don't Overextend,45,22
+Weight Plates,185,Stay Balanced No Jumping or Leaning,18,44
+Stepmills,186,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Treadmill,187,Secure Your Grip Maintain Posture,44,4
+Spinning Bike,188,Adjust Seat and Settings Don't Overextend,38,2
+Cable Machine,189,Stay Balanced No Jumping or Leaning,44,4
+Dumbbells,190,Mind Your Hands and Feet Use Full Range of Motion,1,35
+Weight Plates,191,Secure Your Grip Maintain Posture,49,48
+Stepmills,192,Adjust Seat and Settings Don't Overextend,27,25
+Treadmill,193,Stay Balanced No Jumping or Leaning,6,35
+Spinning Bike,194,Mind Your Hands and Feet Use Full Range of Motion,18,44
+Cable Machine,195,Secure Your Grip No Jumping or Leaning,2,6
+Dumbbells,196,Stay Balanced Maintain Posture,18,44
+Weight Plates,197,Adjust Seat and Settings Don't Overextend,46,23
+Stepmills,198,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,199,Secure Your Grip Maintain Posture,8,46
+Spinning Bike,200,Adjust Seat and Settings Don't Overextend,46,23
+Cable Machine,201,Stay Balanced No Jumping or Leaning,9,9
+Dumbbells,202,Mind Your Hands and Feet Use Full Range of Motion,28,2
+Weight Plates,203,Secure Your Grip Maintain Posture,10,28
+Stepmills,204,Adjust Seat and Settings Don't Overextend,17,18
+Treadmill,205,Stay Balanced No Jumping or Leaning,12,17
+Spinning Bike,206,Mind Your Hands and Feet Use Full Range of Motion,35,30
+Cable Machine,207,Secure Your Grip Maintain Posture,37,45
+Dumbbells,208,Adjust Seat and Settings Don't Overextend,45,22
+Weight Plates,209,Stay Balanced No Jumping or Leaning,18,44
+Stepmills,210,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Treadmill,211,Secure Your Grip Maintain Posture,44,4
+Spinning Bike,212,Adjust Seat and Settings Don't Overextend,38,2
+Cable Machine,213,Stay Balanced No Jumping or Leaning,44,4
+Dumbbells,214,Mind Your Hands and Feet Use Full Range of Motion,1,35
+Weight Plates,215,Secure Your Grip Maintain Posture,49,48
+Stepmills,216,Adjust Seat and Settings Don't Overextend,27,25
+Treadmill,217,Stay Balanced No Jumping or Leaning,6,35
+Spinning Bike,218,Mind Your Hands and Feet Use Full Range of Motion,18,44
+Cable Machine,219,Secure Your Grip No Jumping or Leaning,2,6
+Dumbbells,220,Stay Balanced Maintain Posture,18,44
+Weight Plates,221,Adjust Seat and Settings Don't Overextend,46,23
+Stepmills,222,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,223,Secure Your Grip Maintain Posture,8,46
+Spinning Bike,224,Adjust Seat and Settings Don't Overextend,46,23
+Cable Machine,225,Stay Balanced No Jumping or Leaning,9,9
+Dumbbells,226,Mind Your Hands and Feet Use Full Range of Motion,28,2
+Weight Plates,227,Secure Your Grip Maintain Posture,10,28
+Stepmills,228,Adjust Seat and Settings Don't Overextend,17,18
+Treadmill,229,Stay Balanced No Jumping or Leaning,12,17
+Spinning Bike,230,Mind Your Hands and Feet Use Full Range of Motion,35,30
+Cable Machine,231,Secure Your Grip Maintain Posture,37,45
+Dumbbells,232,Adjust Seat and Settings Don't Overextend,45,22
+Weight Plates,233,Stay Balanced No Jumping or Leaning,18,44
+Stepmills,234,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Treadmill,235,Secure Your Grip Maintain Posture,44,4
+Spinning Bike,236,Adjust Seat and Settings Don't Overextend,38,2
+Cable Machine,237,Stay Balanced No Jumping or Leaning,44,4
+Dumbbells,238,Mind Your Hands and Feet Use Full Range of Motion,1,35
+Weight Plates,239,Secure Your Grip Maintain Posture,49,48
+Stepmills,240,Adjust Seat and Settings Don't Overextend,27,25
+Treadmill,241,Stay Balanced No Jumping or Leaning,6,35
+Spinning Bike,242,Mind Your Hands and Feet Use Full Range of Motion,18,44
+Cable Machine,243,Secure Your Grip No Jumping or Leaning,2,6
+Dumbbells,244,Stay Balanced Maintain Posture,18,44
+Weight Plates,245,Adjust Seat and Settings Don't Overextend,46,23
+Stepmills,246,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,247,Secure Your Grip Maintain Posture,8,46
+Spinning Bike,248,Adjust Seat and Settings Don't Overextend,46,23
+Cable Machine,249,Stay Balanced No Jumping or Leaning,9,9
+Dumbbells,250,Mind Your Hands and Feet Use Full Range of Motion,28,2
+Weight Plates,251,Secure Your Grip Maintain Posture,10,28
+Stepmills,252,Adjust Seat and Settings Don't Overextend,17,18
+Treadmill,253,Stay Balanced No Jumping or Leaning,12,17
+Spinning Bike,254,Mind Your Hands and Feet Use Full Range of Motion,35,30
+Cable Machine,255,Secure Your Grip Maintain Posture,37,45
+Dumbbells,256,Adjust Seat and Settings Don't Overextend,45,22
+Weight Plates,257,Stay Balanced No Jumping or Leaning,18,44
+Stepmills,258,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Treadmill,259,Secure Your Grip Maintain Posture,44,4
+Spinning Bike,260,Adjust Seat and Settings Don't Overextend,38,2
+Cable Machine,261,Stay Balanced No Jumping or Leaning,44,4
+Dumbbells,262,Mind Your Hands and Feet Use Full Range of Motion,1,35
+Weight Plates,263,Secure Your Grip Maintain Posture,49,48
+Stepmills,264,Adjust Seat and Settings Don't Overextend,27,25
+Treadmill,265,Stay Balanced No Jumping or Leaning,6,35
+Spinning Bike,266,Mind Your Hands and Feet Use Full Range of Motion,18,44
+Cable Machine,267,Secure Your Grip No Jumping or Leaning,2,6
+Dumbbells,268,Stay Balanced Maintain Posture,18,44
+Weight Plates,269,Adjust Seat and Settings Don't Overextend,46,23
+Stepmills,270,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,271,Secure Your Grip Maintain Posture,8,46
+Spinning Bike,272,Adjust Seat and Settings Don't Overextend,46,23
+Cable Machine,273,Stay Balanced No Jumping or Leaning,9,9
+Dumbbells,274,Mind Your Hands and Feet Use Full Range of Motion,28,2
+Weight Plates,275,Secure Your Grip Maintain Posture,10,28
+Stepmills,276,Adjust Seat and Settings Don't Overextend,17,18
+Treadmill,277,Stay Balanced No Jumping or Leaning,12,17
+Spinning Bike,278,Mind Your Hands and Feet Use Full Range of Motion,35,30
+Cable Machine,279,Secure Your Grip Maintain Posture,37,45
+Dumbbells,280,Adjust Seat and Settings Don't Overextend,45,22
+Weight Plates,281,Stay Balanced No Jumping or Leaning,18,44
+Stepmills,282,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Treadmill,283,Secure Your Grip Maintain Posture,44,4
+Spinning Bike,284,Adjust Seat and Settings Don't Overextend,38,2
+Cable Machine,285,Stay Balanced No Jumping or Leaning,44,4
+Dumbbells,286,Mind Your Hands and Feet Use Full Range of Motion,1,35
+Weight Plates,287,Secure Your Grip Maintain Posture,49,48
+Stepmills,288,Adjust Seat and Settings Don't Overextend,27,25
+Treadmill,289,Stay Balanced No Jumping or Leaning,6,35
+Spinning Bike,290,Mind Your Hands and Feet Use Full Range of Motion,18,44
+Cable Machine,291,Secure Your Grip No Jumping or Leaning,2,6
+Dumbbells,292,Stay Balanced Maintain Posture,18,44
+Weight Plates,293,Adjust Seat and Settings Don't Overextend,46,23
+Stepmills,294,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Treadmill,295,Adjust Seat and Settings No Jumping or Leaning,33,50
+Spinning Bike,296,Stay Balanced Maintain Posture,30,17
+Cable Machine,297,Mind Your Hands and Feet Use Full Range of Motion,8,46
+Dumbbells,298,Secure Your Grip Don't Overextend,43,44
+Weight Plates,299,Adjust Seat and Settings No Jumping or Leaning,50,33
+Stepmills,300,Mind Your Hands and Feet Maintain Posture,21,51
+Treadmill,301,Stay Balanced Use Full Range of Motion,1,35
+Spinning Bike,302,Secure Your Grip Don't Overextend,49,48
+Cable Machine,303,Adjust Seat and Settings No Jumping or Leaning,46,23
+Dumbbells,304,Mind Your Hands and Feet Maintain Posture,27,25
+Weight Plates,305,Stay Balanced Use Full Range of Motion,2,6
+Stepmills,306,Secure Your Grip Don't Overextend,17,18
+Treadmill,307,Adjust Seat and Settings No Jumping or Leaning,44,4
+Spinning Bike,308,Mind Your Hands and Feet Maintain Posture,4,35
+Cable Machine,309,Stay Balanced Use Full Range of Motion,31,8
+Dumbbells,310,Secure Your Grip Don't Overextend,22,1
+Weight Plates,311,Adjust Seat and Settings No Jumping or Leaning,33,50
+Stepmills,312,Mind Your Hands and Feet Maintain Posture,32,43
+Treadmill,313,Stay Balanced Use Full Range of Motion,30,17
+Spinning Bike,314,Secure Your Grip Don't Overextend,34,26
+Cable Machine,315,Adjust Seat and Settings No Jumping or Leaning,47,27
+Dumbbells,316,Mind Your Hands and Feet Maintain Posture,27,25
+Weight Plates,317,Stay Balanced Use Full Range of Motion,18,44
+Stepmills,318,Secure Your Grip Don't Overextend,2,6
+Treadmill,319,Mind Your Hands and Feet Use Full Range of Motion,44,4
+Spinning Bike,320,Stay Balanced Don't Overextend,21,51
+Cable Machine,321,Adjust Seat and Settings No Jumping or Leaning,5,30
+Dumbbells,322,Secure Your Grip Maintain Posture,46,23
+Weight Plates,323,Mind Your Hands and Feet Don't Overextend,13,12
+Stepmills,324,Stay Balanced Use Full Range of Motion,18,44
+Treadmill,325,Secure Your Grip No Jumping or Leaning,38,2
+Spinning Bike,326,Mind Your Hands and Feet Maintain Posture,22,1
+Cable Machine,327,Stay Balanced Use Full Range of Motion,9,9
+Dumbbells,328,Adjust Seat and Settings Don't Overextend,31,8
+Weight Plates,329,Secure Your Grip Maintain Posture,10,28
+Stepmills,330,Mind Your Hands and Feet Use Full Range of Motion,50,33
+Treadmill,331,Stay Balanced No Jumping or Leaning,45,22
+Spinning Bike,332,Adjust Seat and Settings Maintain Posture,33,50
+Cable Machine,333,Secure Your Grip Don't Overextend,3,36
+Dumbbells,334,Mind Your Hands and Feet Use Full Range of Motion,27,25
+Weight Plates,335,Stay Balanced No Jumping or Leaning,5,30
+Stepmills,336,Adjust Seat and Settings Maintain Posture,17,18
+Treadmill,337,Secure Your Grip Don't Overextend,43,44
+Spinning Bike,338,Mind Your Hands and Feet Use Full Range of Motion,33,50
+Cable Machine,339,Stay Balanced No Jumping or Leaning,1,35
+Dumbbells,340,Adjust Seat and Settings Maintain Posture,8,46
+Treadmill,341,Secure Your Grip Don't Overextend,17,18
+Spinning Bike,342,Mind Your Hands and Feet Use Full Range of Motion,13,12
+Cable Machine,343,Stay Balanced No Jumping or Leaning,22,1
+Dumbbells,344,Adjust Seat and Settings Maintain Posture,9,9
+Weight Plates,345,Secure Your Grip Don't Overextend,5,30
+Stepmills,346,Mind Your Hands and Feet Use Full Range of Motion,31,8
+Treadmill,347,Stay Balanced No Jumping or Leaning,10,28
+Spinning Bike,348,Adjust Seat and Settings Maintain Posture,50,33
+Cable Machine,349,Secure Your Grip Don't Overextend,45,22
+Dumbbells,350,Mind Your Hands and Feet Use Full Range of Motion,33,50
+Weight Plates,351,Stay Balanced No Jumping or Leaning,3,36
+Stepmills,352,Adjust Seat and Settings Maintain Posture,27,25
+Treadmill,353,Secure Your Grip Don't Overextend,5,30
+Spinning Bike,354,Mind Your Hands and Feet Use Full Range of Motion,17,18
+Cable Machine,355,Stay Balanced No Jumping or Leaning,43,44
+Dumbbells,356,Adjust Seat and Settings Maintain Posture,33,50
+Weight Plates,357,Secure Your Grip Don't Overextend,1,35
+Stepmills,358,Mind Your Hands and Feet Use Full Range of Motion,8,46
+Treadmill,359,Stay Balanced No Jumping or Leaning,13,12
+Spinning Bike,360,Adjust Seat and Settings Maintain Posture,5,30
+Treadmill,361,Mind Your Hands and Feet Don't Overextend,46,23
+Spinning Bike,362,Secure Your Grip Maintain Posture,25,6
+Cable Machine,363,Adjust Seat and Settings Use Full Range of Motion,4,35
+Dumbbells,364,Stay Balanced No Jumping or Leaning,43,44
+Weight Plates,365,Mind Your Hands and Feet Don't Overextend,2,6
+Stepmills,366,Secure Your Grip Maintain Posture,13,12
+Treadmill,367,Adjust Seat and Settings Use Full Range of Motion,38,2
+Spinning Bike,368,Stay Balanced No Jumping or Leaning,24,27
+Cable Machine,369,Mind Your Hands and Feet Don't Overextend,41,38
+Dumbbells,370,Secure Your Grip Maintain Posture,33,50
+Weight Plates,371,Adjust Seat and Settings Use Full Range of Motion,35,30
+Stepmills,372,Stay Balanced No Jumping or Leaning,4,35
+Treadmill,373,Mind Your Hands and Feet Don't Overextend,6,35
+Spinning Bike,374,Secure Your Grip Maintain Posture,39,4
+Cable Machine,375,Adjust Seat and Settings Use Full Range of Motion,12,17
+Dumbbells,376,Stay Balanced No Jumping or Leaning,31,8
+Weight Plates,377,Mind Your Hands and Feet Don't Overextend,45,22
+Stepmills,378,Secure Your Grip Maintain Posture,5,30
+Treadmill,379,Adjust Seat and Settings Use Full Range of Motion,33,50
+Spinning Bike,380,Stay Balanced No Jumping or Leaning,8,46
+Cable Machine,381,Mind Your Hands and Feet Don't Overextend,49,48
+Dumbbells,382,Secure Your Grip Maintain Posture,46,23
+Weight Plates,383,Adjust Seat and Settings Use Full Range of Motion,44,4
+Stepmills,384,Stay Balanced No Jumping or Leaning,21,51
+Treadmill,385,Mind Your Hands and Feet Don't Overextend,27,25
+Spinning Bike,386,Secure Your Grip Maintain Posture,18,44
+Cable Machine,387,Adjust Seat and Settings Use Full Range of Motion,30,17
+Dumbbells,388,Stay Balanced No Jumping or Leaning,35,30
+Weight Plates,389,Mind Your Hands and Feet Don't Overextend,38,2
+Stepmills,390,Secure Your Grip Maintain Posture,39,4
+Treadmill,391,Adjust Seat and Settings Use Full Range of Motion,12,17
+Spinning Bike,392,Stay Balanced No Jumping or Leaning,10,28
+Cable Machine,393,Mind Your Hands and Feet Don't Overextend,17,18
+Dumbbells,394,Secure Your Grip Maintain Posture,51,44
+Weight Plates,395,Adjust Seat and Settings Use Full Range of Motion,6,35
+Stepmills,396,Stay Balanced No Jumping or Leaning,1,35
+Treadmill,397,Mind Your Hands and Feet Don't Overextend,37,45
+Spinning Bike,398,Secure Your Grip Maintain Posture,22,1
+Cable Machine,399,Adjust Seat and Settings Use Full Range of Motion,33,50
+Dumbbells,400,Stay Balanced No Jumping or Leaning,17,18
+Weight Plates,401,Mind Your Hands and Feet Don't Overextend,32,43
+Stepmills,402,Secure Your Grip Maintain Posture,42,10
+Treadmill,403,Adjust Seat and Settings Use Full Range of Motion,44,4
+Spinning Bike,404,Stay Balanced No Jumping or Leaning,4,35
+Cable Machine,405,Mind Your Hands and Feet Don't Overextend,12,17
+Dumbbells,406,Secure Your Grip Maintain Posture,38,2
+Weight Plates,407,Adjust Seat and Settings Use Full Range of Motion,4,35
+Stepmills,408,Stay Balanced No Jumping or Leaning,10,28
+Treadmill,409,Mind Your Hands and Feet Don't Overextend,18,44
+Spinning Bike,410,Secure Your Grip Maintain Posture,30,17
+Cable Machine,411,Adjust Seat and Settings Use Full Range of Motion,35,30
+Dumbbells,412,Stay Balanced No Jumping or Leaning,21,51
+Weight Plates,413,Mind Your Hands and Feet Don't Overextend,27,25
+Stepmills,414,Secure Your Grip Maintain Posture,46,23
+Treadmill,415,Adjust Seat and Settings Use Full Range of Motion,49,48
+Spinning Bike,416,Stay Balanced No Jumping or Leaning,44,4
+Cable Machine,417,Mind Your Hands and Feet Don't Overextend,22,1
+Dumbbells,418,Secure Your Grip Maintain Posture,33,50
+Weight Plates,419,Adjust Seat and Settings Use Full Range of Motion,17,18
+Stepmills,420,Stay Balanced No Jumping or Leaning,51,44

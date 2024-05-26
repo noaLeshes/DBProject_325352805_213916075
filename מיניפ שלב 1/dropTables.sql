@@ -1,0 +1,10 @@
+drop table takes;
+drop table used_in;
+drop table device;
+drop table class_lesson;
+drop table hall;
+drop table trains_in;
+drop table gym;
+drop table trainee;
+drop table coach;
+drop table person;
